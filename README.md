@@ -1,15 +1,15 @@
-# Electronics eCommerce Shop With Admin Dashboard NextJS NodeJS
+# Electronics eCommerce Shop With Admin Dashboard Only Frontend
 
-# Step-by-step video instructions for running the app
+This is only the front-end code for the full version of the project with the back-end and step-by-step video instructions for running the app visit this link: [https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS](https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS)
 
-[https://www.youtube.com/watch?v=Ry0aOMws0gE](https://www.youtube.com/watch?v=Ry0aOMws0gE)
+If you decide to follow this guide, you will also need the back-end code: [https://github.com/cesnak02/Singitronic-backend](https://github.com/cesnak02/Singitronic-backend)
 
 # Instructions
 1. To run the app you first need to download and install Node.js and npm on your computer. Here is a link to the tutorial that explains how to install them: [https://www.youtube.com/watch?v=4FAtFwKVhn0](https://www.youtube.com/watch?v=4FAtFwKVhn0). Also here is the link where you can download them: [https://nodejs.org/en](https://nodejs.org/en)
 2. When you install Node.js and npm on your computer you need to download and install MySQL on your computer. Here is another link to the tutorial which explains how you can download and install MySQL on your computer: [https://www.youtube.com/watch?v=BxdSUGBs0gM&t=212s](https://www.youtube.com/watch?v=BxdSUGBs0gM&t=212s). Here is a link where you can download MySQL: [https://dev.mysql.com/downloads/installer/](https://dev.mysql.com/downloads/installer/)
 3. This step is optional, but highly recommended if you don't have a database management app. Because HeidiSQL is beginner-friendly and very easy to use than other database management options. Here is a link to the tutorial which explains how to download and install HeidiSQL: [https://www.youtube.com/watch?v=oJ24MyLeiPs](https://www.youtube.com/watch?v=oJ24MyLeiPs) and here is a link where you can download it: [https://www.heidisql.com/](https://www.heidisql.com/)
-4. When you install all the programs you need on your computer you need to download the project. When you download the project, you need to extract it.
-5. After you extract the project you need to open the project folder in your code editor and in the root create a file with the name .env.
+4. When you install all the programs you need on your computer, you need to download both projects(front-end and back-end repositories). When you download both projects, you need to extract them.
+5. After you extract both projects you need to move the server folder from the back-end repository to the root of the front-end project. After that, you need to open the project folder in your code editor and in the root create a file with the name .env.
 6. You need to put the following code in the .env file and instead of username and password put your MySQL username and password.
 ```
 DATABASE_URL="mysql://username:password@localhost:3306/singitronic_nextjs"
