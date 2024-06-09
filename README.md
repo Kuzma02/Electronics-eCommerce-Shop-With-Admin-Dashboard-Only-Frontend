@@ -1,6 +1,6 @@
 # Electronics eCommerce Shop With Admin Dashboard Only Frontend
 
-This is only the front-end code for the full version of the project with the back-end and step-by-step video instructions for running the app visit this link: [https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS](https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS)
+This is only the front-end code. For the full version of the project with the back-end and step-by-step video instructions for running the app visit this link: [https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS](https://github.com/Kuzma02/Electronics-eCommerce-Shop-With-Admin-Dashboard-NextJS-NodeJS)
 
 If you decide to follow this guide, you will also need the back-end code: [https://github.com/cesnak02/Singitronic-backend](https://github.com/cesnak02/Singitronic-backend)
 
